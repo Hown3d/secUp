@@ -10,7 +10,9 @@
 - BaseImage
 - credentials, if private registry
 - OS of baseImage
-- 
+
+## Configuration
+- viper and yaml file?
 
 ## SKDs, APIs etc.
 - [docker Engine API](https://docs.docker.com/engine/api/v1.41/#operation/ImageList)
